@@ -1,0 +1,8 @@
+Revision history for Perl extension Object::IP::v4.
+
+0.02  Thu Dec  3 2009
+	Changed module name from MooseX::Object::IP::v4 to Object::IP::v4 per recommendation
+
+0.01  Wed Dec  2 2009
+	- original version;
+
